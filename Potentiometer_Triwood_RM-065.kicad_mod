@@ -56,4 +56,9 @@
   (pad 2 thru_hole circle (at 0 -2.54) (size 2.49936 2.49936) (drill 1.19888) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole circle (at 2.49936 2.49936) (size 2.49936 2.49936) (drill 1.19888) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at -2.49936 2.49936) (size 2.49936 2.49936) (drill 1.19888) (layers *.Cu *.Mask F.SilkS))
+  (model pot_Triwood_RM-065.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 4 4 4))
+    (rotate (xyz 0 0 0))
+  )
 )
