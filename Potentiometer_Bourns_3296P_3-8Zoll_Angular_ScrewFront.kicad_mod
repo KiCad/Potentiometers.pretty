@@ -1,4 +1,4 @@
-(module Potentiometer_Bourns_3296P_3-8Zoll_Angular_ScrewFront (layer F.Cu) (tedit 540C4A05)
+(module Potentiometer_Bourns_3296P_3-8Zoll_Angular_ScrewFront (layer F.Cu) (tedit 540C9786)
   (descr "Potentiometer, Trimmer, Bourns 3296P, 3/8 Inch, Angular, Screw front,")
   (tags "Potentiometer, Trimmer, Bourns 3296P, 3/8 Inch, Angular, Screw front")
   (fp_text reference R (at -3.81 -8.382) (layer F.SilkS)
@@ -20,8 +20,8 @@
   (fp_line (start 4.318 5.334) (end 4.826 5.334) (layer F.SilkS) (width 0.381))
   (fp_line (start -4.826 -4.826) (end 4.826 -4.826) (layer F.SilkS) (width 0.381))
   (pad 2 thru_hole circle (at 0 -2.54 90) (size 1.524 1.524) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
-  (pad 3 thru_hole circle (at -2.54 0 90) (size 1.524 1.524) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
-  (pad 1 thru_hole circle (at 2.54 0 90) (size 1.524 1.524) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
+  (pad 3 thru_hole circle (at 2.54 0 90) (size 1.524 1.524) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
+  (pad 1 thru_hole circle (at -2.54 0 90) (size 1.524 1.524) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (model Potentiometers_Bourns/3296P.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
