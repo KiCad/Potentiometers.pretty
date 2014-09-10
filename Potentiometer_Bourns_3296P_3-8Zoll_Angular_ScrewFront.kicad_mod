@@ -1,7 +1,7 @@
-(module Potentiometer_Bourns_3296P_3-8Zoll_Angular_ScrewFront (layer F.Cu) (tedit 540C9786)
+(module Potentiometer_Bourns_3296P_3-8Zoll_Angular_ScrewFront (layer F.Cu) (tedit 540FD0DC)
   (descr "Potentiometer, Trimmer, Bourns 3296P, 3/8 Inch, Angular, Screw front,")
   (tags "Potentiometer, Trimmer, Bourns 3296P, 3/8 Inch, Angular, Screw front")
-  (fp_text reference R (at -3.81 -8.382) (layer F.SilkS)
+  (fp_text reference R (at -3.81 -7.62) (layer F.SilkS)
     (effects (font (thickness 0.3048)))
   )
   (fp_text value Potentiometer_Bourns3296P_3/8Inch_Angular_ScrewFront (at -2.54 6.858) (layer F.SilkS) hide
