@@ -1,5 +1,4 @@
-(module Potentiometer_Bourns_3296X_3-8Zoll_Inline_ScrewFront (layer F.Cu)
-  (at 0 0)
+(module Potentiometer_Bourns_3296X_3-8Zoll_Inline_ScrewFront (layer F.Cu) (tedit 540FE06E)
   (descr "Potentiometer, Trimmer, Bourns 3296X, 3/8 Inch, Inline, Screw Front,")
   (tags "Potentiometer, Trimmer, Bourns 3296X, 3/8 Inch, Inline, Screw Front,")
   (fp_text reference R (at 2.54 -6.35) (layer F.SilkS)
@@ -21,5 +20,9 @@
   (pad 2 thru_hole circle (at 0 0) (size 1.524 1.524) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole circle (at 0 -2.54) (size 1.524 1.524) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at 0 2.54) (size 1.524 1.524) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
-  (model  Potentiometers_Bourns/3296X.wrl)
+  (model discret/potentiometer/3296X.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
