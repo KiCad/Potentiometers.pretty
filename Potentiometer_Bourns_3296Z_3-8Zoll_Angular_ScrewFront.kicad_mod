@@ -23,4 +23,5 @@
   (pad 2 thru_hole circle (at -1.27 0) (size 1.524 1.524) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole circle (at 1.27 -2.54) (size 1.524 1.524) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at 1.27 2.54) (size 1.524 1.524) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
+  (model  Potentiometers_Bourns/3296Z.wrl)
 )
