@@ -29,7 +29,7 @@
   (pad 2 thru_hole circle (at -1.27 0) (size 1.524 1.524) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole circle (at 1.27 -2.54) (size 1.524 1.524) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at 1.27 2.54) (size 1.524 1.524) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
-  (model discret/potentiometer/3296Y.wrl
+  (model discret/potentiometer/Bourns_3296Y_Angular_ScrewUp.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
