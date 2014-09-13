@@ -1,4 +1,4 @@
-(module 3339P (layer F.Cu) (tedit 54130D4B)
+(module Potentiometer_Bourns_3339P_Angular_ScrewUp (layer F.Cu) (tedit 54130D4B)
   (descr "5/16, Round, Trimming, Potentiometer, Bourns, 3339")
   (tags "5/16, Round, Trimming, Potentiometer, Bourns, 3339")
   (fp_text reference R (at 2.54 -6.35) (layer F.SilkS)

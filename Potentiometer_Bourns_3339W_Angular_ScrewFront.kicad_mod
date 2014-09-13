@@ -1,4 +1,4 @@
-(module 3339W (layer F.Cu) (tedit 54130E1C)
+(module Potentiometer_Bourns_3339W_Angular_ScrewFront (layer F.Cu) (tedit 54130E1C)
   (descr "5/16, Round, Trimming, Potentiometer, Bourns, 3339")
   (tags "5/16, Round, Trimming, Potentiometer, Bourns, 3339")
   (fp_text reference R (at -2.54 -9.779) (layer F.SilkS)
