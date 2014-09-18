@@ -7,9 +7,9 @@
   (fp_text value Potentiometer_VishaySpectrol-Econtrim-Type36X_RevA_02Aug2010 (at 5.03936 3.32994) (layer F.SilkS) hide
     (effects (font (thickness 0.3048)))
   )
-  (fp_line (start 2.49936 0.8509) (end 2.49936 1.84912) (layer F.SilkS) (width 0.381))
-  (fp_line (start -0.50038 -1.75006) (end 5.4991 -1.75006) (layer F.SilkS) (width 0.381))
-  (fp_line (start 5.4991 1.84912) (end -0.50038 1.84912) (layer F.SilkS) (width 0.381))
+  (fp_line (start 2.49936 0.8509) (end 2.49936 1.84912) (layer F.SilkS) (width 0.15))
+  (fp_line (start -0.50038 -1.75006) (end 5.4991 -1.75006) (layer F.SilkS) (width 0.15))
+  (fp_line (start 5.4991 1.84912) (end -0.50038 1.84912) (layer F.SilkS) (width 0.15))
   (pad 2 thru_hole circle (at 2.49936 -3.50012) (size 2.49936 2.49936) (drill 1.19888) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole circle (at 4.99872 0) (size 2.49936 2.49936) (drill 1.19888) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at 0 0) (size 2.49936 2.49936) (drill 1.19888) (layers *.Cu *.Mask F.SilkS))
