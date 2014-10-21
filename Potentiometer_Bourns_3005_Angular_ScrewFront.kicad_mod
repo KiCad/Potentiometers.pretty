@@ -1,4 +1,4 @@
-(module Potentiometer_Bourns_3005_Angular_ScrewFront (layer F.Cu) (tedit 541B0B67)
+(module Potentiometer_Bourns_3005_Angular_ScrewFront (layer F.Cu) (tedit 54144ECC)
   (descr "3/4, Rectangular, Trimpot, Trimming, Potentiometer, Bourns, 3005")
   (tags "3/4, Rectangular, Trimpot, Trimming, Potentiometer, 3005")
   (fp_text reference R (at -6.604 -6.35) (layer F.SilkS)
