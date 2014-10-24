@@ -1,4 +1,4 @@
-(module Potentiometer_Alps-RK16-double (layer F.Cu) (tedit 5446FD75)
+(module Potentiometer_Alps-RK16-double_RevA_30July2010 (layer F.Cu) (tedit 5446F812)
   (descr "Potentiometer, double, dual,  Alps, RK16, single, RevA, 30 July 2010,")
   (tags "Potentiometer, double, dual, Alps, RK16, single, RevA, 30 July 2010,")
   (fp_text reference R (at 0 -6.42874) (layer F.SilkS)

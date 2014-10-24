@@ -1,4 +1,4 @@
-(module Potentiometer_Alps-RK16-single_largePads (layer F.Cu) (tedit 5446FD75)
+(module Potentiometer_Alps-RK16-single_largePads_RevA_30July2010 (layer F.Cu) (tedit 5446F79C)
   (descr "Potentiometer, Alps, RK16, single, large Pads, RevA, 30 July 2010,")
   (tags "Potentiometer, Alps, RK16, single, large Pads, RevA, 30 July 2010,")
   (fp_text reference R (at 0 -6.42874) (layer F.SilkS)
