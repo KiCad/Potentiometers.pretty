@@ -4,7 +4,7 @@
   (fp_text reference R (at 6.30936 -3.76936) (layer F.SilkS)
     (effects (font (thickness 0.3048)))
   )
-  (fp_text value Potentiometer_VishaySpectrol-Econtrim-Type36k_RevA_02Aug2010 (at 2.49936 6.39064) (layer F.SilkS) hide
+  (fp_text value Potentiometer_VishaySpectrol-Econtrim-Type36k (at 2.49936 6.39064) (layer F.SilkS) hide
     (effects (font (thickness 0.3048)))
   )
   (fp_line (start 2.49936 4.50088) (end 2.49936 3.90144) (layer F.SilkS) (width 0.15))

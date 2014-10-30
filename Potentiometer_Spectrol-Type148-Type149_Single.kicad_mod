@@ -4,7 +4,7 @@
   (fp_text reference R (at 2.54 -5.08) (layer F.SilkS)
     (effects (font (thickness 0.3048)))
   )
-  (fp_text value Potentiometer_Spectrol-Type148-Type149_Single_RevA_02Aug2010 (at 3.81 20.32) (layer F.SilkS) hide
+  (fp_text value Potentiometer_Spectrol-Type148-Type149_Single (at 3.81 20.32) (layer F.SilkS) hide
     (effects (font (thickness 0.3048)))
   )
   (fp_line (start 4.1402 11.41984) (end 4.1402 17.76984) (layer F.SilkS) (width 0.15))

@@ -4,7 +4,7 @@
   (fp_text reference R (at 4.39928 -7.07898) (layer F.SilkS)
     (effects (font (thickness 0.3048)))
   )
-  (fp_text value Potentiometer_Trimmer-Piher_PT15-B_vertical_RevA_02Aug2010 (at 4.39928 3.08102) (layer F.SilkS) hide
+  (fp_text value Potentiometer_Trimmer-Piher_PT15-B_vertical (at 4.39928 3.08102) (layer F.SilkS) hide
     (effects (font (thickness 0.3048)))
   )
   (fp_line (start 3.29946 -5.4991) (end -3.10134 -5.4991) (layer F.SilkS) (width 0.15))

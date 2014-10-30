@@ -4,7 +4,7 @@
   (fp_text reference R (at 0.0508 -3.49758) (layer F.SilkS)
     (effects (font (thickness 0.3048)))
   )
-  (fp_text value Potentiometer_WirePads_RevA_30July2010 (at -1.34874 13.25118) (layer F.SilkS)
+  (fp_text value Potentiometer_WirePads (at -1.34874 13.25118) (layer F.SilkS)
     (effects (font (thickness 0.3048)))
   )
   (fp_line (start 5.4991 10.05078) (end 1.95072 10.05078) (layer F.SilkS) (width 0.15))

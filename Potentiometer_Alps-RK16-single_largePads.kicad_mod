@@ -4,7 +4,7 @@
   (fp_text reference R (at 0 -6.42874) (layer F.SilkS)
     (effects (font (thickness 0.3048)))
   )
-  (fp_text value Potentiometer_Alps-RK16-single_largePads_RevA_30July2010 (at 0 16.43126) (layer F.SilkS)
+  (fp_text value Potentiometer_Alps-RK16-single_largePads (at 0 16.43126) (layer F.SilkS)
     (effects (font (thickness 0.3048)))
   )
   (fp_line (start 0 14.00048) (end -6.70052 14.00048) (layer F.SilkS) (width 0.15))
