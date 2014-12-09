@@ -1,11 +1,11 @@
 (module Potentiometer_VishaySpectrol-Econtrim-Type36P (layer F.Cu) (tedit 5446FD75)
   (descr "Potentiometer, Trimmer, Spectrol Type 36P, Econtrim, Rev A, 02 Aug 2010,")
   (tags "Potentiometer, Trimmer, Spectrol Type 36P, Econtrim, Rev A, 02 Aug 2010,")
-  (fp_text reference R (at 6.30936 -5.56006) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+  (fp_text reference Potentiometer_VishaySpectrol-Econtrim-Type36P (at 6.30936 -5.56006) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Potentiometer_VishaySpectrol-Econtrim-Type36P (at 2.49936 3.32994) (layer F.SilkS) hide
-    (effects (font (thickness 0.3048)))
+  (fp_text value VAL** (at 2.49936 3.32994) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 2.49936 -1.75006) (end 2.49936 -1.04902) (layer F.SilkS) (width 0.15))
   (fp_line (start 4.09956 -5.00126) (end 3.50012 -5.00126) (layer F.SilkS) (width 0.15))
