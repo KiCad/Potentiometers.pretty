@@ -1,10 +1,10 @@
 (module Potentiometer_Trimmer-Piher-PT15-h2-5_vertical (layer F.Cu) (tedit 5446FD75)
   (descr "Potentiometer, Trimmer, Piher, PT15, Type h 2.5, vertical, Rev A, 02 Aug 2010,")
   (tags "Potentiometer, Trimmer, Piher, PT15, Type h 2.5, vertical, Rev A, 02 Aug 2010,")
-  (fp_text reference Potentiometer_Trimmer-Piher-PT15-h2-5_vertical (at 7.54126 -7.57936) (layer F.SilkS)
+  (fp_text reference REF** (at 7.54126 -7.57936) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 5.00126 3.85064) (layer F.SilkS) hide
+  (fp_text value Potentiometer_Trimmer-Piher-PT15-h2-5_vertical (at 5.00126 3.85064) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 1.75006 0.29972) (end 8.25246 0.29972) (layer F.SilkS) (width 0.15))

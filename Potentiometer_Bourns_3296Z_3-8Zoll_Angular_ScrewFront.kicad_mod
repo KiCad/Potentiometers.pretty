@@ -1,10 +1,10 @@
 (module Potentiometer_Bourns_3296Z_3-8Zoll_Angular_ScrewFront (layer F.Cu) (tedit 54130BEC)
   (descr "3296, 3/8, Square, Trimpot, Trimming, Potentiometer, Bourns")
   (tags "3296, 3/8, Square, Trimpot, Trimming, Potentiometer, Bourns")
-  (fp_text reference Potentiometer_Bourns_3296Z_3-8Zoll_Angular_ScrewFront (at 1.27 -8.89) (layer F.SilkS)
+  (fp_text reference REF** (at 1.27 -8.89) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 5.08) (layer F.SilkS)
+  (fp_text value Potentiometer_Bourns_3296Z_3-8Zoll_Angular_ScrewFront (at 0 5.08) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 0.635 1.27) (end 0.635 1.905) (layer F.SilkS) (width 0.15))
@@ -22,7 +22,7 @@
   (pad 2 thru_hole circle (at -2.54 -2.54) (size 1.524 1.524) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole circle (at 0 -5.08) (size 1.524 1.524) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at 0 0) (size 1.524 1.524) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
-  (model Potentiometers/Potentiometer_Bourns_3296Z_3-8Zoll_Angular_ScrewFront.wrl
+  (model Potentiometers.3dshapes/Potentiometer_Bourns_3296Z_3-8Zoll_Angular_ScrewFront.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

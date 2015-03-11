@@ -1,10 +1,10 @@
 (module Potentiometer_Alps-RK163-double_15mm (layer F.Cu) (tedit 5452A312)
   (descr "Potentiometer, double, dual,  Alps, RK163, single")
   (tags "Potentiometer, double, dual, Alps, RK163, single")
-  (fp_text reference Potentiometer_Alps-RK163-double_15mm (at -2.54 -16.51) (layer F.SilkS)
+  (fp_text reference REF** (at -2.54 -16.51) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 7.62) (layer F.SilkS)
+  (fp_text value Potentiometer_Alps-RK163-double_15mm (at 0 7.62) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 19.05 -4.445) (end 19.05 -2.54) (layer F.SilkS) (width 0.15))
@@ -33,7 +33,7 @@
   (pad 12 thru_hole circle (at 0 -5.15874) (size 2.49936 2.49936) (drill 1.19888) (layers *.Cu *.Mask F.SilkS))
   (pad 13 thru_hole circle (at 0 -10.16) (size 2.49936 2.49936) (drill 1.19888) (layers *.Cu *.Mask F.SilkS))
   (pad 11 thru_hole circle (at 0 0) (size 2.49936 2.49936) (drill 1.19888) (layers *.Cu *.Mask F.SilkS))
-  (model Potentiometers/Potentiometer_Alps-RK163-double_15mm.wrl
+  (model Potentiometers.3dshapes/Potentiometer_Alps-RK163-double_15mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
