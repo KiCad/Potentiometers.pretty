@@ -25,7 +25,7 @@
   (pad 2 thru_hole circle (at 0 -2.54) (size 1.524 1.524) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole circle (at 0 -5.08) (size 1.524 1.524) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at 0 0) (size 1.524 1.524) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
-  (model "D:/Dropbox/Projekti/OrodjeElektronika/LED tester/pcb/Potentiometer_Bourns_3296W_3_horizontal.wrl"
+  (model Potentiometers.3dshapes//Potentiometer_Bourns_3296W_3_horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
