@@ -1,4 +1,4 @@
-(module Potentiometer_Trimmer_Bourns_PV36W (layer F.Cu) (tedit 5991F2F2)
+(module Potentiometer_Trimmer_Bourns_PV36W (layer F.Cu) (tedit 5991F6F4)
   (descr "Spindle Trimmer Potentiometer, Bourns PV36W, http://www.bourns.com/docs/Product-Datasheets/pv36.pdf")
   (tags "Spindle Trimmer Potentiometer Bourns PV36W")
   (fp_text reference REF** (at 2.54 -3.66) (layer F.SilkS)
@@ -47,7 +47,7 @@
   )
   (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_PV36W.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )
