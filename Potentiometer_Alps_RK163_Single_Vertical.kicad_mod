@@ -1,4 +1,4 @@
-(module Potentiometer_Alps_RK163_Single_Vertical (layer F.Cu) (tedit 58826D68)
+(module Potentiometer_Alps_RK163_Single_Vertical (layer F.Cu) (tedit 59B6DEA3)
   (descr "Potentiometer, vertically mounted, Omeg PC16PU, Omeg PC16PU, Omeg PC16PU, Vishay/Spectrol 248GJ/249GJ Single, Vishay/Spectrol 248GJ/249GJ Single, Vishay/Spectrol 248GJ/249GJ Single, Vishay/Spectrol 248GH/249GH Single, Vishay/Spectrol 148/149 Single, Vishay/Spectrol 148/149 Single, Vishay/Spectrol 148/149 Single, Vishay/Spectrol 148A/149A Single with mounting plates, Vishay/Spectrol 148/149 Double, Vishay/Spectrol 148A/149A Double with mounting plates, Piher PC-16 Single, Piher PC-16 Single, Piher PC-16 Single, Piher PC-16SV Single, Piher PC-16 Double, Piher PC-16 Triple, Piher T16H Single, Piher T16L Single, Piher T16H Double, Alps RK163 Single, http://www.alps.com/prod/info/E/PDF/Potentiometer/MetalShaft/RK163/RK163.PDF")
   (tags "Potentiometer vertical  Omeg PC16PU  Omeg PC16PU  Omeg PC16PU  Vishay/Spectrol 248GJ/249GJ Single  Vishay/Spectrol 248GJ/249GJ Single  Vishay/Spectrol 248GJ/249GJ Single  Vishay/Spectrol 248GH/249GH Single  Vishay/Spectrol 148/149 Single  Vishay/Spectrol 148/149 Single  Vishay/Spectrol 148/149 Single  Vishay/Spectrol 148A/149A Single with mounting plates  Vishay/Spectrol 148/149 Double  Vishay/Spectrol 148A/149A Double with mounting plates  Piher PC-16 Single  Piher PC-16 Single  Piher PC-16 Single  Piher PC-16SV Single  Piher PC-16 Double  Piher PC-16 Triple  Piher T16H Single  Piher T16L Single  Piher T16H Double  Alps RK163 Single")
   (fp_text reference REF** (at 0 -15.2) (layer F.SilkS)
@@ -35,10 +35,13 @@
   (fp_line (start -6.95 4.2) (end 19.05 4.2) (layer F.CrtYd) (width 0.05))
   (fp_line (start 19.05 4.2) (end 19.05 -14.2) (layer F.CrtYd) (width 0.05))
   (fp_line (start 19.05 -14.2) (end -6.95 -14.2) (layer F.CrtYd) (width 0.05))
+  (fp_text user %R (at 12.8 -4.9) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
   (pad 3 thru_hole circle (at 0 -10) (size 2.34 2.34) (drill 1.3) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 -5) (size 2.34 2.34) (drill 1.3) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 0 0) (size 2.34 2.34) (drill 1.3) (layers *.Cu *.Mask))
-  (model Potentiometers.3dshapes/Potentiometer_Alps_RK163_Single_Vertical.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Alps_RK163_Single_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
